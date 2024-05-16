@@ -56,7 +56,7 @@ ROOT_URLCONF = 'codewithfreezy.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR,'codewithfreezy/reactapp/build')],
+        'DIRS': [os.path.join(BASE_DIR,'reactapp/build')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
