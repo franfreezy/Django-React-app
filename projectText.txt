@@ -1,0 +1,3 @@
+this was meant to be a react-Django project but during the setup i didn't leverage on the powerful tool: Vite@latest
+taking cognizance of the need of vite in building a fullstack project, this repo is paused and the new url of  a django-react project will 
+be provided as soon as i start it up.
